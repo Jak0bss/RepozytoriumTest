@@ -1,4 +1,1 @@
-print("Hello world");
-print("How are you");
-
-funkcja dodajaca nowa mape
+Dodanie strzelanie
